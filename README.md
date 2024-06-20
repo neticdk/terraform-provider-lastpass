@@ -15,8 +15,8 @@ terraform {
       version = "3.1.0"
     }
     lastpass = {
-      source = "nrkno/lastpass"
-      version = ">= 1.0.0"
+      source = "neticdk/lastpass"
+      version = "~> 1.0"
     }
   }
 }
@@ -44,6 +44,10 @@ cursus rhoncus. Morbi lacus turpis, volutpat in lobortis vel, mattis nec magna.
 Cras gravida libero vitae nisl iaculis ultrices. Fusce odio ligula, pharetra ac
 viverra semper, consequat quis risus.
 EOF
+}
+
+data "lastpass_secret" "mysecret" {
+    id = resource.lastpass_secret.mysecret.id
 }
 
 ```

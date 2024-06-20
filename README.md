@@ -1,5 +1,5 @@
 # terraform-provider-lastpass 
-[![release](https://img.shields.io/github/release/nrkno/terraform-provider-lastpass.svg?style=flat-square)](https://github.com/nrkno/terraform-provider-lastpass/releases/latest) [![Build Status](https://travis-ci.com/nrkno/terraform-provider-lastpass.svg?branch=master)](https://travis-ci.com/nrkno/terraform-provider-lastpass) [![Go Report Card](https://goreportcard.com/badge/github.com/nrkno/terraform-provider-lastpass)](https://goreportcard.com/report/github.com/nrkno/terraform-provider-lastpass) [![GoDoc](https://godoc.org/github.com/github.com/nrkno/terraform-provider-lastpass/lastpass?status.svg)](https://godoc.org/github.com/nrkno/terraform-provider-lastpass/lastpass)
+[![release](https://img.shields.io/github/release/nrkno/terraform-provider-lastpass.svg?style=flat-square)](https://github.com/nrkno/terraform-provider-lastpass/releases/latest) [![Go Report Card](https://goreportcard.com/badge/github.com/nrkno/terraform-provider-lastpass)](https://goreportcard.com/report/github.com/nrkno/terraform-provider-lastpass) [![GoDoc](https://godoc.org/github.com/github.com/nrkno/terraform-provider-lastpass/lastpass?status.svg)](https://godoc.org/github.com/nrkno/terraform-provider-lastpass/lastpass)
 
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" width="400px">
 

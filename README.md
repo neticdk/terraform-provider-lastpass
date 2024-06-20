@@ -1,5 +1,5 @@
 # terraform-provider-lastpass 
-[![release](https://img.shields.io/github/release/nrkno/terraform-provider-lastpass.svg?style=flat-square)](https://github.com/nrkno/terraform-provider-lastpass/releases/latest) [![Go Report Card](https://goreportcard.com/badge/github.com/nrkno/terraform-provider-lastpass)](https://goreportcard.com/report/github.com/nrkno/terraform-provider-lastpass) [![GoDoc](https://godoc.org/github.com/github.com/nrkno/terraform-provider-lastpass/lastpass?status.svg)](https://godoc.org/github.com/nrkno/terraform-provider-lastpass/lastpass)
+[![release](https://img.shields.io/github/release/neticdk/terraform-provider-lastpass.svg?style=flat-square)](https://github.com/neticdk/terraform-provider-lastpass/releases/latest) [![Go Report Card](https://goreportcard.com/badge/github.com/neticdk/terraform-provider-lastpass)](https://goreportcard.com/report/github.com/neticdk/terraform-provider-lastpass) [![GoDoc](https://godoc.org/github.com/github.com/neticdk/terraform-provider-lastpass/lastpass?status.svg)](https://godoc.org/github.com/neticdk/terraform-provider-lastpass/lastpass)
 
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" width="400px">
 
@@ -54,8 +54,8 @@ data "lastpass_secret" "mysecret" {
 
 Documentation and examples can be found inside the Terraform registry:
 
-- [Terraform Registry](https://registry.terraform.io/providers/nrkno/lastpass/latest)
-- [Documentation](https://registry.terraform.io/providers/nrkno/lastpass/latest/docs)
+- [Terraform Registry](https://registry.terraform.io/providers/neticdk/lastpass/latest)
+- [Documentation](https://registry.terraform.io/providers/neticdk/lastpass/latest/docs)
  
 ## License
 

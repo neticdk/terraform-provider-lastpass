@@ -5,7 +5,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
-	"github.com/nrkno/terraform-provider-lastpass/api"
+	"github.com/neticdk/terraform-provider-lastpass/api"
 )
 
 // Provider config

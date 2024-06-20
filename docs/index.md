@@ -30,7 +30,7 @@ terraform {
       version = "3.1.0"
     }
     lastpass = {
-      source = "nrkno/lastpass"
+      source = "neticdk/lastpass"
       version = ">= 1.0.0"
     }
   }

@@ -6,7 +6,7 @@ import (
 
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/resource"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/terraform"
-	"github.com/nrkno/terraform-provider-lastpass/api"
+	"github.com/neticdk/terraform-provider-lastpass/api"
 )
 
 func TestAccResourceSecret_Basic(t *testing.T) {
